@@ -1,4 +1,4 @@
-$('#addReview').submit(function (e) {
+/*$('#addReview').submit(function (e) {
 	$('.alert.alert-danger').hide();
 	if (!$('input#name').val() || !$('select#rating').val() || !$('textarea#review').val()) {
 		console.log('validation on client-side');
@@ -9,4 +9,4 @@ $('#addReview').submit(function (e) {
 		}
 		return false;
 	}
-});
+});*/
